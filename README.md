@@ -1,7 +1,7 @@
 # What is in the document
 In the bashrc are codes which personalize your terminal, like mine.
 
-![screenshot terminal](/documents/school/screenshot_terminal.png)
+![screenshot terminal](http://i68.tinypic.com/2gwb6tt.png)
 
 # How to install
 1. Clone the documents in this repository:
